@@ -6,7 +6,7 @@
 
 Note: _We could expand upon this in the future; this is fine for now._
 
-**Bold** - Directories
+**Bold** - Directories<br/>
 `code` - Files
 
 -   **Assets**: Images and files that the bot uses.
