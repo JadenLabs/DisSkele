@@ -4,11 +4,11 @@
 
 Feel free to add or work on anything here.
 
+-   [ ] `(TODO)` Add hyperlinks to scopes in TODO
+-   [ ] `(FILES)` Add hyperlinks to items in FILES
 -   [ ] `(README)` Installation instructions
 -   [ ] `(README)` Usage instructions
 -   [ ] `(README)` Discord server invite
 -   [ ] `(README)` Contributing instructions
-        <br/>
 -   [ ] `(./scripts)` Cog creation script
-        <br/>
 -   [ ] `(./src/bot/cogs/cmds)` Send error embed to home logging channel
