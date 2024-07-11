@@ -8,7 +8,7 @@ prefix = ".ds"                          # Not used but required by discord.py
 sudo_users = [
     1027380375028244551, # roc.py
 ]
-home_guild = 1260647611677806633 # R&D - used for errors and emojis
+home_guild = 1212198952649363487 # Roc(k) - used for errors and emojis
 
 [colors]
 primary = 0xFFFFFF   # Used as the primary embed color
@@ -18,10 +18,10 @@ success = 0x00D355   # Used on command success
 error = 0xDF0043     # Used on command errors
 
 [emojis]
-arrow_right = "<:arrow_right:1260669225853255796>"
-chat = "<:chat:1260669237693907005>"
-dns = "<:dns:1260669235311546502>"
-false = "<:false:1260669233986273431>"
-ping = "<:ping:1260669232312619068>"
-trend_up = "<:trend_up:1260669239677816922>"
-true = "<:true:1260669236343341208>"
+arrow_right = "<:arrow_right:1260800557355110453>"
+chat = "<:chat:1260799727478247456>"
+dns = "<:dns:1260799724013879346>"
+false = "<:false:1260799722273116160>"
+ping = "<:ping:1260799720960557149>"
+trend_up = "<:trend_up:1260799728673882203>"
+true = "<:true:1260799725989396591>"
