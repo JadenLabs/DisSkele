@@ -4,7 +4,6 @@
 
 Feel free to add or work on anything here.
 
--   [ ] [[FILES.md]] Add hyperlinks to items in FILES
 -   [ ] [[README.md]] Installation instructions
 -   [ ] [[README.md]] Usage instructions
 -   [ ] [[README.md]] Discord server invite
