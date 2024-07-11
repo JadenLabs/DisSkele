@@ -4,11 +4,10 @@
 
 Feel free to add or work on anything here.
 
--   [ ] `(TODO)` Add hyperlinks to scopes in TODO
--   [ ] `(FILES)` Add hyperlinks to items in FILES
--   [ ] `(README)` Installation instructions
--   [ ] `(README)` Usage instructions
--   [ ] `(README)` Discord server invite
--   [ ] `(README)` Contributing instructions
--   [ ] `(./scripts)` Cog creation script
--   [ ] `(./src/bot/cogs/cmds)` Send error embed to home logging channel
+-   [ ] [[FILES.md]] Add hyperlinks to items in FILES
+-   [ ] [[README.md]] Installation instructions
+-   [ ] [[README.md]] Usage instructions
+-   [ ] [[README.md]] Discord server invite
+-   [ ] [[README.md]] Contributing instructions
+-   [ ] [cmds.py](./src/bot/cogs/cmds.py) Send error embed to home logging channel
+-   [ ] `scripts` Cog creation script
