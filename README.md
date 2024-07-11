@@ -40,8 +40,8 @@ _Add yourself here if you've contributed_
     ```bash
     pip install -r requirements.txt
     ```
-4. Open [[example.env]] and put your bot's values in there, then rename it to `.env` or anything with the prefix `.env`
-5. Open [[config.toml]] and adjust it to your needs
+4. Open [example.env](./example.env) and put your bot's values in there, then rename it to `.env` or anything with the prefix `.env`
+5. Open [config.toml](./config.toml) and adjust it to your needs
 6. Run the bot
     ```bash
     python main.py
