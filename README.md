@@ -55,8 +55,5 @@ usage: main.py [-h] [-e ENV] [-c CONFIG] [-l LEVEL]
 options:
 -h, --help show this help message and exit
 -e ENV, --env ENV The env file to use
--c CONFIG, --config CONFIG
-The config file to use
--l LEVEL, --level LEVEL
-The logging level to use (IN CAPS)
+-c CONFIG, --config CONFIG The config file to use
 ```
