@@ -50,7 +50,7 @@ _Add yourself here if you've contributed_
 ### Usage
 
 ```md
-usage: main.py [-h] [-e ENV] [-c CONFIG] [-l LEVEL]
+usage: main.py [-h] [-e ENV] [-c CONFIG]
 
 options:
 -h, --help show this help message and exit
